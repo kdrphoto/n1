@@ -1,0 +1,10 @@
+F:\n1-master\bin\Debug\Aplikacja1.exe.config
+F:\n1-master\obj\Debug\Aplikacja1.csprojResolveAssemblyReference.cache
+F:\n1-master\bin\Debug\Aplikacja1.exe.manifest
+F:\n1-master\bin\Debug\Aplikacja1.application
+F:\n1-master\bin\Debug\Aplikacja1.exe
+F:\n1-master\bin\Debug\Aplikacja1.pdb
+F:\n1-master\obj\Debug\Aplikacja1.exe.manifest
+F:\n1-master\obj\Debug\Aplikacja1.application
+F:\n1-master\obj\Debug\Aplikacja1.exe
+F:\n1-master\obj\Debug\Aplikacja1.pdb
