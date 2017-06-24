@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Figury\GenFigure.cs" />
     <Compile Include="Figury\Hetman.cs" />
     <Compile Include="Figury\Kolor.cs" />
     <Compile Include="Figury\Goniec.cs" />
